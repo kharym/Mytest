@@ -1,0 +1,5 @@
+Nombres:
+Guillermo Morales.
+Karim Manzur.
+
+ATENCION: Programa satisfactoriamente funcional en Ubuntu.
